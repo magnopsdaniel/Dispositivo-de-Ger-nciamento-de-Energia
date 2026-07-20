@@ -1,0 +1,1 @@
+# Dispositivo-de-Ger-nciamento-de-Energia

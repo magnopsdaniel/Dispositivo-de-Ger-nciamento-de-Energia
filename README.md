@@ -1,7 +1,8 @@
 Dispositivo Inteligente de Gerenciamento de Energia Elétrica⚡️⚡️
 
 Este projeto foi desenvolvido como trabalho de conclusão de curso para a obtenção do título de Técnico em Eletrónica e Telecomunicações no Instituto Politécnico da Humpata (Lubango, 2025).
-
+[...](imagens/video1.GIF)
+* ![Video da montagem](imagens/IMG-20250804-WA0013.jpg)
 
 O objetivo principal foi criar um dispositivo eletrónico eficiente, seguro e acessível para o gerenciamento inteligente e monitoramento do consumo de energia elétrica em ambientes residenciais, visando mitigar o desperdício e combater a inadimplência.
 

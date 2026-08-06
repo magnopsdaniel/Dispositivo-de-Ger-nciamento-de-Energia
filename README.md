@@ -36,3 +36,4 @@ Para prevenir perdas comerciais e vandalismo, o sistema integra barreiras físic
 ---
 **Equipa de Autores:** Ericleny Lende, Gabriel Garcia, João Catengue, Magno Daniel e Paulina Mulumbi.  
 **Tutora:** Joana Chalale.
+* Agradecimenos por toda a experiência adquirida ao longo da nossa jornada no ensino médio.

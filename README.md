@@ -1,4 +1,4 @@
-Dispositivo Inteligente de Gerenciamento de Energia Elétrica⚡️⚡️
+Dispositivo Inteligente de Gerenciamento de Energia Elétrica⚡️
 
 Este projeto foi desenvolvido como trabalho de conclusão de curso para a obtenção do título de Técnico em Eletrónica e Telecomunicações no Instituto Politécnico da Humpata (Lubango, 2025).
 [...](imagens/video1.GIF)
